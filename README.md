@@ -28,9 +28,12 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Configure Agents to recieve and attend to user request
 - Configure Users to log a request in ticketing system
 - Configure Service Level Agreement (SLA) 
-- Create a ticket and show reolution
+- Create a ticket and show resolution
 
 <h2>Configuration Steps</h2>
+<p>
+I will start off by navigating through the OsTicket platform using the objectives above to show some of the major functions that are utilized
+</p>
 
 <p>
 <img src="https://i.imgur.com/IrkWkZu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
