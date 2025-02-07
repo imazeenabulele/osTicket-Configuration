@@ -32,9 +32,11 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Configuration Steps</h2>
 <p>
-I will start off by navigating through the OsTicket platform using the objectives above to show some of the major functions that are utilized. The first function we would look at is "Roles"
+I will start off by navigating through the OsTicket platform using the objectives above to show some of the major functions that are utilized. The first function we would look at is "Roles".
+
 Roles are important in managing and organizing support teams effectively. They help structure permissions, responsibilities, and access to various parts of the help desk system, allowing for better workflow and security. This way, each person has the appropriate level of access, responsibility, and control over the system
 </p>
+
 
 <p>
 <img src="https://i.imgur.com/IrkWkZu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
