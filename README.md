@@ -63,6 +63,10 @@ Navigate to "Tickets" and "Tasks" tab. For the purpose of having seamless explai
 The department to be created is the SysAdmin department. This department is responsible for managing anfd maintaining the IT infrastructure for an organization. They would set up and maintain servers, set up and maintain user accounts, monitor cybersecurity threats, respond to IT issues and troubleshooting system problems
 </p>
 <br />
+<p>
+<img src="https://i.imgur.com/VIIrPwA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
 
 <p>
 <img src="https://i.imgur.com/Df7TECp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
