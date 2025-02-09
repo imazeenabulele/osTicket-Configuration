@@ -39,7 +39,7 @@ Roles are important in managing and organizing support teams effectively. They h
 <br />
 
 <p>
-<img src="https://i.imgur.com/IrkWkZu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/U468XX0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 To create a Role, navigate to the "Admin Panel" tab at the top right corner, go on to click on "Agents" > "Roles" > "Add New Role"
