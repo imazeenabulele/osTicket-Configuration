@@ -96,10 +96,10 @@ To create a Team, navigate to "Teams" > "Add New Team"
 <br />
 
 <p>
-<img src="https://i.imgur.com/mAQqSOm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/tWk1kCg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-
+After typing in the name, you can navigate to the "Members" tab where you can assign Agents to the team as needed
 </p>
 <br />
 
