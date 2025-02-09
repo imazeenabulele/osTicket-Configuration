@@ -60,7 +60,7 @@ Navigate to "Tickets" and "Tasks" tab. For the purpose of having seamless explai
 <p>
 2. CONFIGURE DEPARTMENTS
 
-The department to be created is the SysAdmin department. This department is responsible for managing anfd maintaining the IT infrastructure for an organization. They would set up and maintain servers, set up and maintain user accounts, monitor cybersecurity threats, respond to IT issues and troubleshooting system problems
+The department to be created is the SysAdmin department. This department is responsible for managing and maintaining the IT infrastructure for an organization. They set up and maintain servers, set up and maintain user accounts, monitor cybersecurity threats, respond to IT issues and troubleshoot system problems
 </p>
 <br />
 <p>
@@ -68,7 +68,7 @@ The department to be created is the SysAdmin department. This department is resp
 </p>
 
 <p>
-To create a Department, navigate to the tab, click on "Departments" > "Add New Department"
+To create a Department, navigate to "Departments" > "Add New Department"
 </p>
 <br />
 
@@ -81,7 +81,7 @@ Under settings, click on the "Parent" drop down, to select the Top-Level Departm
 <br />
 
 <p>
-1. CONFIGURE TEAMS
+3. CONFIGURE TEAMS
   
 The "Online Banking" team will be created here. Teams play a crucial role in organizing and managing ticket assignments efficiently within an organization. Teams allow multiple agents work together on tickets thereby reducing bottlenecks and ensuring faster ticket resolution. Utilizing Teams allow controlled access to tickets based on expertise and responsibility.
 </p>
@@ -96,10 +96,10 @@ To create a Team, navigate to "Teams" > "Add New Team"
 <br />
 
 <p>
-<img src="https://i.imgur.com/MjIH0Ge.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/mAQqSOm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Navigate to "Tickets" and "Tasks" tab. For the purpose of having seamless explaination of osTicket usage, I'll assign all permissions to the role being created. (NOTE: This is not standard practice, except it is required by the organisational policies). Once that is done, click "Add role" to create the role
+
 </p>
 <br />
 
