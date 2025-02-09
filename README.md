@@ -83,7 +83,9 @@ Under settings, click on the "Parent" drop down, to select the Top-Level Departm
 <p>
 3. CONFIGURE TEAMS
   
-The "Online Banking" team will be created here. Teams play a crucial role in organizing and managing ticket assignments efficiently within an organization. Teams allow multiple agents work together on tickets thereby reducing bottlenecks and ensuring faster ticket resolution. Utilizing Teams allow controlled access to tickets based on expertise and responsibility.
+ Teams play a crucial role in organizing and managing ticket assignments efficiently within an organization. Teams allow multiple agents work together on tickets thereby reducing bottlenecks and ensuring faster ticket resolution. Utilizing Teams allow controlled access to tickets based on expertise and responsibility.
+
+ The "Online Banking" team will be created.
 </p>
 <br />
 
@@ -103,18 +105,20 @@ After typing in the name, you can navigate to the "Members" tab where you can as
 </p>
 <br />
 
-1. CONFIGURE ROLES
-  
-Roles are important in managing and organizing support teams effectively. They help structure permissions, responsibilities, and access to various parts of the help desk system, allowing for better workflow and security. This way, each person has the appropriate level of access, responsibility, and control over the system
+<p>
+4. CONFIGURE AGENTS
+
+Agents are employees responsible for handling and resolving tickets. They are the first point of contact who interact with customers or end-users to provide support.
+
+Two (2) agents will be created: Jane Doe(Sysadmin) and John Doe(Support). 
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/U468XX0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/jRHPR2G.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-To create a Role, navigate to the "Admin Panel" tab at the top right corner, go on to click on "Agents" > "Roles" > "Add New Role"
-We'll call the role we are creating "Supreme User"
+To create a New Agent, click on the "Agents" tab, and go on to click on "Add New Agent"
 </p>
 <br />
 
