@@ -58,7 +58,7 @@ Navigate to "Tickets" and "Tasks" tab. For the purpose of having seamless explai
 
 <p>
 2. CONFIGURE DEPARTMENTS
-The department that will created is the SysAdmin department. This department is responsible for managing anfd maintaining the IT infrastructure for an organization. The would set up and maintain servers, set up and maintain user accounts, monitor cybersecurity threats, respond to IT issues and troubleshooting system problems
+The department to be created is the SysAdmin department. This department is responsible for managing anfd maintaining the IT infrastructure for an organization. They would set up and maintain servers, set up and maintain user accounts, monitor cybersecurity threats, respond to IT issues and troubleshooting system problems
 </p>
 <br />
 
