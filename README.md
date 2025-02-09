@@ -76,6 +76,77 @@ To create a Department, navigate to the tab, click on "Departments" > "Add New D
 <img src="https://i.imgur.com/Df7TECp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-kkkkkk
+Under settings, click on the "Parent" drop down, to select the Top-Level Department. We will select "Support" since they have a support function as apart of their role
 </p>
 <br />
+
+
+1. CONFIGURE ROLES
+  
+Roles are important in managing and organizing support teams effectively. They help structure permissions, responsibilities, and access to various parts of the help desk system, allowing for better workflow and security. This way, each person has the appropriate level of access, responsibility, and control over the system
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/U468XX0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+To create a Role, navigate to the "Admin Panel" tab at the top right corner, go on to click on "Agents" > "Roles" > "Add New Role"
+We'll call the role we are creating "Supreme User"
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/MjIH0Ge.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Navigate to "Tickets" and "Tasks" tab. For the purpose of having seamless explaination of osTicket usage, I'll assign all permissions to the role being created. (NOTE: This is not standard practice, except it is required by the organisational policies). Once that is done, click "Add role" to create the role
+</p>
+<br />
+
+1. CONFIGURE ROLES
+  
+Roles are important in managing and organizing support teams effectively. They help structure permissions, responsibilities, and access to various parts of the help desk system, allowing for better workflow and security. This way, each person has the appropriate level of access, responsibility, and control over the system
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/U468XX0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+To create a Role, navigate to the "Admin Panel" tab at the top right corner, go on to click on "Agents" > "Roles" > "Add New Role"
+We'll call the role we are creating "Supreme User"
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/MjIH0Ge.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Navigate to "Tickets" and "Tasks" tab. For the purpose of having seamless explaination of osTicket usage, I'll assign all permissions to the role being created. (NOTE: This is not standard practice, except it is required by the organisational policies). Once that is done, click "Add role" to create the role
+</p>
+<br />
+
+1. CONFIGURE ROLES
+  
+Roles are important in managing and organizing support teams effectively. They help structure permissions, responsibilities, and access to various parts of the help desk system, allowing for better workflow and security. This way, each person has the appropriate level of access, responsibility, and control over the system
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/U468XX0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+To create a Role, navigate to the "Admin Panel" tab at the top right corner, go on to click on "Agents" > "Roles" > "Add New Role"
+We'll call the role we are creating "Supreme User"
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/MjIH0Ge.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Navigate to "Tickets" and "Tasks" tab. For the purpose of having seamless explaination of osTicket usage, I'll assign all permissions to the role being created. (NOTE: This is not standard practice, except it is required by the organisational policies). Once that is done, click "Add role" to create the role
+</p>
+<br />
+
