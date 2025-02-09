@@ -80,19 +80,18 @@ Under settings, click on the "Parent" drop down, to select the Top-Level Departm
 </p>
 <br />
 
-
-1. CONFIGURE ROLES
+<p>
+1. CONFIGURE TEAMS
   
-Roles are important in managing and organizing support teams effectively. They help structure permissions, responsibilities, and access to various parts of the help desk system, allowing for better workflow and security. This way, each person has the appropriate level of access, responsibility, and control over the system
+The "Online Banking" team will be created here. Teams play a crucial role in organizing and managing ticket assignments efficiently within an organization. Teams allow multiple agents work together on tickets thereby reducing bottlenecks and ensuring faster ticket resolution. Utilizing Teams allow controlled access to tickets based on expertise and responsibility.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/U468XX0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/faSMLLg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-To create a Role, navigate to the "Admin Panel" tab at the top right corner, go on to click on "Agents" > "Roles" > "Add New Role"
-We'll call the role we are creating "Supreme User"
+To create a Team, navigate to "Teams" > "Add New Team"
 </p>
 <br />
 
