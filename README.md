@@ -34,6 +34,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <p>
 I will start off by navigating through the OsTicket platform using the objectives above to show some of the major functions that are utilized. The first function we would look at is "Roles".
 
+1. CONFIGURE ROLES
 Roles are important in managing and organizing support teams effectively. They help structure permissions, responsibilities, and access to various parts of the help desk system, allowing for better workflow and security. This way, each person has the appropriate level of access, responsibility, and control over the system
 </p>
 <br />
@@ -56,7 +57,13 @@ Navigate to "Tickets" and "Tasks" tab. For the purpose of having seamless explai
 <br />
 
 <p>
-<img src="https://i.imgur.com/RScHrXl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+2. CONFIGURE DEPARTMENTS
+The department that will created is the SysAdmin department. This department is responsible for managing anfd maintaining the IT infrastructure for an organization. The would set up and maintain servers, set up and maintain user accounts, monitor cybersecurity threats, respond to IT issues and troubleshooting system problems
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/Df7TECp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
