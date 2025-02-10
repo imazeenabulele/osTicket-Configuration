@@ -137,14 +137,13 @@ Fill in the name, email address and username. Click on the "set Password" tab wh
 </p>
 
 <p>  
-Under "Access", Jane would be placed in the Support/SysAdmin Department and would be assigned the "Supreme Admin" role. Moving on to the "Teams" section, Jane would be placed in the "Online Banking" team as seen above. Don't forget to click the "Add" button before you crrate the agent
+Under "Access", Jane would be placed in the Support/SysAdmin Department and would be assigned the "Supreme Admin" role. Moving on to the "Teams" section, Jane would be placed in the "Online Banking" team as seen above. Don't forget to click the "Add" button before you create the agent
 </p>
 <br />
 
 
 <p>
-To create a Role, navigate to the "Admin Panel" tab at the top right corner, go on to click on "Agents" > "Roles" > "Add New Role"
-We'll call the role we are creating "Supreme User"
+Follow the same process to create the second agent - John and he would be placed in the "Support" Department. He would be assigned a "view only" role and He won't be assigned any team 
 </p>
 <br />
 
