@@ -33,7 +33,8 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Configuration Steps</h2>
 <p>
 I will start off by navigating through the OsTicket platform using the objectives above to show some of the major functions that are utilized. The first function we would look at is "Roles".
-
+</p>
+<p>
 1. CONFIGURE ROLES
   
 Roles are important in managing and organizing support teams effectively. They help structure permissions, responsibilities, and access to various parts of the help desk system, allowing for better workflow and security. This way, each person has the appropriate level of access, responsibility, and control over the system
@@ -83,7 +84,7 @@ Under settings, click on the "Parent" drop down, to select the Top-Level Departm
 <p>
 3. CONFIGURE TEAMS
   
- Teams play a crucial role in organizing and managing ticket assignments efficiently within an organization. Teams allow multiple agents work together on tickets thereby reducing bottlenecks and ensuring faster ticket resolution. Utilizing Teams allow controlled access to tickets based on expertise and responsibility.
+Teams play a crucial role in organizing and managing ticket assignments efficiently within an organization. Teams allow multiple agents work together on tickets thereby reducing bottlenecks and ensuring faster ticket resolution. Utilizing Teams allow controlled access to tickets based on expertise and responsibility.
 
  The "Online Banking" team will be created.
 </p>
@@ -101,7 +102,7 @@ To create a Team, navigate to "Teams" > "Add New Team"
 <img src="https://i.imgur.com/tWk1kCg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-After typing in the name, you can navigate to the "Members" tab where you can assign Agents to the team as needed
+After typing in the name, you can navigate to the "Members" tab where you can assign Agents to the team as needed. Since we haven't created any Agent, we'll move on to the next step to do just that
 </p>
 <br />
 
