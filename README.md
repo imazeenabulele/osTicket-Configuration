@@ -124,8 +124,9 @@ To create a New Agent, click on the "Agents" tab, and go on to click on "Add New
 <br />
 
 <p>
-<img src="blob:https://imgur.com/61a28c28-f8cd-4233-ada5-87fd64559ef2" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/5a7Q0aO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+
 <p>
 
 </p>
