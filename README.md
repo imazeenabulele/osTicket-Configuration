@@ -133,7 +133,7 @@ Fill in the name, email address and username. Click on the "set Password" tab wh
 <br />
 
 <p>
-<img src="https://i.imgur.com/MmnRbOO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/dLIXI2Q.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <p>  
