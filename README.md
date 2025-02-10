@@ -128,19 +128,20 @@ To create a New Agent, click on the "Agents" tab, and go on to click on "Add New
 </p>
 
 <p>
-
-</p>
-<br />
-
-1. CONFIGURE ROLES
-  
-Roles are important in managing and organizing support teams effectively. They help structure permissions, responsibilities, and access to various parts of the help desk system, allowing for better workflow and security. This way, each person has the appropriate level of access, responsibility, and control over the system
+Fill in the name, email address and username. Click on the "set Password" tab which would open up another dialog box as seen above. Uncheck the box "Send the agent a password reset" to enable you input a password
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/U468XX0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/MmnRbOO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+
+<p>  
+Under "Access", Jane would be placed in the Support/SysAdmin Department and would be assigned the "Supreme Admin" role. Moving on to the "Teams" section, Jane would be placed in the "Online Banking" team as seen above. Don't forget to click the "Add" button before you crrate the agent
+</p>
+<br />
+
+
 <p>
 To create a Role, navigate to the "Admin Panel" tab at the top right corner, go on to click on "Agents" > "Roles" > "Add New Role"
 We'll call the role we are creating "Supreme User"
