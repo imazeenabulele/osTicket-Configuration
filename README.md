@@ -32,7 +32,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Configuration Steps</h2>
 <p>
-I will start off by navigating through the OsTicket platform using the objectives above to show some of the major functions that are utilized. The first function we would look at is "Roles".
+Let's start off by navigating through the OsTicket platform using the objectives above to show some of the major functions that are utilized. The first function we would look at is "Roles".
 </p>
 <p>
 1. CONFIGURE ROLES
@@ -124,10 +124,10 @@ To create a New Agent, click on the "Agents" tab, and go on to click on "Add New
 <br />
 
 <p>
-<img src="https://i.imgur.com/MjIH0Ge.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="blob:https://imgur.com/61a28c28-f8cd-4233-ada5-87fd64559ef2" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Navigate to "Tickets" and "Tasks" tab. For the purpose of having seamless explaination of osTicket usage, I'll assign all permissions to the role being created. (NOTE: This is not standard practice, except it is required by the organisational policies). Once that is done, click "Add role" to create the role
+
 </p>
 <br />
 
