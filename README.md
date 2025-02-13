@@ -141,17 +141,25 @@ Under "Access", Jane would be placed in the Support/SysAdmin Department and woul
 </p>
 <br />
 
-
 <p>
 Follow the same process to create the second agent - John and he would be placed in the "Support" Department. He would be assigned a "view only" role and He won't be assigned any team 
 </p>
 <br />
 
+
 <p>
-<img src="https://i.imgur.com/MjIH0Ge.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+5. CONFIGURE USERS
+
+Users are individuals who submit support tickets to request assistance. Users can be customers, employees, or anyone needing help from the support team.
 </p>
+<br />
+
 <p>
-Navigate to "Tickets" and "Tasks" tab. For the purpose of having seamless explaination of osTicket usage, I'll assign all permissions to the role being created. (NOTE: This is not standard practice, except it is required by the organisational policies). Once that is done, click "Add role" to create the role
+<img src="https://i.imgur.com/lxg7qK0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+<p>
+To configure a user, navigate to the "Agent Panel(top right corner)" > "Users" > "Add New user" > We'll add a user named Karen
 </p>
 <br />
 
