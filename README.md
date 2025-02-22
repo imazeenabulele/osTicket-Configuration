@@ -178,7 +178,7 @@ Service Scope(What services are covered), Performance Metrics(Key indicators lik
 
 <p>
 To configure a Service Level Agreement, navigate to the "Admin Panel(top right corner)" > "Manage" > "SLA" >  "Add New SLA Plan".  <br /> 
-We'll add add three (3) SLAs:
+We'll add add three (3) SLAs: <br />
 ●	Sev-A (Grace Period: 1 hour, Schedule: 24/7) <br />
 ●	Sev-B (Grace Period: 4 hours, Schedule: 24/7) <br />
 ●	Sev-C (Grace Period: 8 hours, Business Hours)
