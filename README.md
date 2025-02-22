@@ -164,7 +164,7 @@ To configure a user, navigate to the "Agent Panel(top right corner)" > "Users" >
 <br />
 
 <p>
-5. CONFIGURE SLAs
+6. CONFIGURE SLAs
 
 SLAs (Service Level Agreements) are formal agreements between a service provider and a customer that define the expected level of service. They typically include:
 
@@ -190,15 +190,28 @@ We'll add add three (3) SLAs:
 </p>
 
 <p>
-For Sev-A, the grace period and schedule are inputed as seen above. The grace period is the additional time, in hours, before a ticket assigned to this SLA becomes overdue if not closed within the specified time frame while the schedule determines the operating hours during which the SLA countdown is active <br />
-
-Repeat the same process to input Sev-B and Sev-C accordingly
+For Sev-A, the grace period and schedule are inputed as seen above. The grace period is the additional time, in hours, before a ticket assigned to this SLA becomes overdue if not closed within the specified time frame while the schedule determines the operating hours during which the SLA countdown is active
 </p>
 <br />
 
 <p>
+<img src="https://i.imgur.com/9wtypDf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
 
+<p>
+Repeat the same process to input Sev-B and Sev-C accordingly
 </p>
 <br />
+
+
+<p>
+7. CONFIGURE HELP TOPICS
+Help Topics are predefined categories that help streamline ticket creation by guiding users to select the appropriate subject for their issue.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/qKGRE5x.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
 
 
