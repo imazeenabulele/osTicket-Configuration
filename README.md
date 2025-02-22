@@ -177,7 +177,10 @@ Service Scope(What services are covered), Performance Metrics(Key indicators lik
 </p>
 
 <p>
-To configure a Service Level Agreement, navigate to the "Admin Panel(top right corner)" > "Manage" > "SLA" >  "Add New SLA". We'll add add three(3) SLAs ; SEV-A, SEV-B, SEV-C
+To configure a Service Level Agreement, navigate to the "Admin Panel(top right corner)" > "Manage" > "SLA" >  "Add New SLA Plan". We'll add add three (3) SLAs: <br />
+●	Sev-A (Grace Period: 1 hour, Schedule: 24/7) <br />
+●	Sev-B (Grace Period: 4 hours, Schedule: 24/7) <br />
+●	Sev-C (Grace Period: 8 hours, Business Hours)
 </p>
 <br />
 
@@ -186,9 +189,7 @@ To configure a Service Level Agreement, navigate to the "Admin Panel(top right c
 </p>
 
 <p>
-●	Sev-A (Grace Period: 1 hour, Schedule: 24/7) <br />
-●	Sev-B (Grace Period: 4 hours, Schedule: 24/7) <br />
-●	Sev-C (Grace Period: 8 hours, Business Hours)
+FOr Sev-A, the grace period and schedule are inputed as seens in the image. The grace period is the additional time, in hours, before a ticket assigned to this SLA becomes overdue if not closed within the specified time frame while the schedule determines the operating hours during which the SLA countdown is active
 </p>
 <br />
 
