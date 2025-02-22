@@ -159,7 +159,27 @@ Users are individuals who submit support tickets to request assistance. Users ca
 </p>
 
 <p>
-To configure a user, navigate to the "Agent Panel(top right corner)" > "Users" > "Add New user" > We'll add a user named Karen
+To configure a user, navigate to the "Agent Panel(top right corner)" > "Users" > "Add New user" > We'll add a user named Karen. When the panel opens, add the user's name and the other details needed
+</p>
+<br />
+
+<p>
+5. CONFIGURE SLAs
+
+SLAs (Service Level Agreements) are formal agreements between a service provider and a customer that define the expected level of service. They typically include:
+
+Service Scope – What services are covered.
+Performance Metrics – Key indicators like uptime, response time, and resolution time.
+Responsibilities – What each party (provider and customer) is accountable for.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/lxg7qK0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+<p>
+To configure a user, navigate to the "Agent Panel(top right corner)" > "Users" > "Add New user" > We'll add a user named Karen. When the panel opens, add the user's name and the other details needed
 </p>
 <br />
 
