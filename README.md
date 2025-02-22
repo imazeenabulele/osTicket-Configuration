@@ -168,18 +168,27 @@ To configure a user, navigate to the "Agent Panel(top right corner)" > "Users" >
 
 SLAs (Service Level Agreements) are formal agreements between a service provider and a customer that define the expected level of service. They typically include:
 
-Service Scope – What services are covered.
-Performance Metrics – Key indicators like uptime, response time, and resolution time.
-Responsibilities – What each party (provider and customer) is accountable for.
+Service Scope(What services are covered), Performance Metrics(Key indicators like uptime, response time, and resolution time), Responsibilities(What each party (provider and customer) is accountable for)
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/lxg7qK0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/qKGRE5x.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <p>
-To configure a user, navigate to the "Agent Panel(top right corner)" > "Users" > "Add New user" > We'll add a user named Karen. When the panel opens, add the user's name and the other details needed
+To configure a Service Level Agreement, navigate to the "Admin Panel(top right corner)" > "Manage" > "SLA" >  "Add New SLA". We'll add add three(3) SLAs ; SEV-A, SEV-B, SEV-C
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/wYtYmMT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+<p>
+●	Sev-A (Grace Period: 1 hour, Schedule: 24/7) <br />
+●	Sev-B (Grace Period: 4 hours, Schedule: 24/7) <br />
+●	Sev-C (Grace Period: 8 hours, Business Hours)
 </p>
 <br />
 
