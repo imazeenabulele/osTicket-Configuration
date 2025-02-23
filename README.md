@@ -212,13 +212,29 @@ Let's create the following Help Topics below<br />
 ●	Personal Computer Issues<br />
 ●	Equipment Request<br />
 ●	Password Reset<br />
-●	Other
+●	Other<br />
 
+To create a Help Topic: "Manage" > "Help Topics" >  "Add New Help Topic"
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/qKGRE5x.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/qi0r6pk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+
+<p>
+Each Help Topic is created by adding the "Topic" and the "Parent Topic" as seen above
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/IjooRJy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+<p>
+The other Help Topics are created in the same way
+</p>
+<br />
+
 
 
