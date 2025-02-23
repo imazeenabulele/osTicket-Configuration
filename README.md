@@ -206,7 +206,14 @@ Repeat the same process to input Sev-B and Sev-C accordingly
 
 <p>
 7. CONFIGURE HELP TOPICS
-Help Topics are predefined categories that help streamline ticket creation by guiding users to select the appropriate subject for their issue.
+Help Topics are predefined categories that help streamline ticket creation by guiding users to select the appropriate subject for their issue.<br />
+Let's create the following Help Topics below<br />
+●	Business Critical Outage<br />
+●	Personal Computer Issues<br />
+●	Equipment Request<br />
+●	Password Reset<br />
+●	Other
+
 </p>
 <br />
 
